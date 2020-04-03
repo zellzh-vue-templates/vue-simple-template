@@ -1,2 +1,2 @@
 # vue-advanced-template
-vue构建模板 --- 需要编译
+vue/cli 3.0+ 构建模板 --- 需要编译
